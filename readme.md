@@ -13,4 +13,4 @@
     7. Delete your profile
 
 
-**~ Learned by Andrew Mead**
+**~Learned by Andrew Mead**
